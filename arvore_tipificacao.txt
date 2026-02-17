@@ -1,0 +1,21 @@
+### ÁRVORE DE TIPIFICAÇÃO SICT - 2026
+
+[DIREITO: CONVIVÊNCIA FAMILIAR E COMUNITÁRIA]
+  - Grupo: Privação ou dificuldade de convívio -> (Violações: Omissão dever familiar, Pensão alimentícia, Impedimento de contato, Falta de parentes, Subtração, Moradia precária, Tráfico, Fuga, Abandono).
+  - Grupo: Inadequação do convívio familiar -> (Violações: Falta de zelo, Dificuldade adoção, Ambiente violento, Drogas na família, Alienação parental).
+  - Grupo: Violações à dignidade / negligência -> (Violações: Falta apoio emocional, Omissão educação, Omissão saúde/alimentação/higiene, Omissão segurança).
+
+[DIREITO: VIDA E SAÚDE]
+  - Grupo: Não atendimento em saúde -> (Violações: Falta de leitos, Aborto legal negado, Falta vacinação, Recusa atendimento gestante/emergência).
+  - Grupo: Atendimento inadequado -> (Violações: Falta de orientação diagnóstica, Cirurgia desnecessária, Negligência profissional).
+
+[DIREITO: EDUCAÇÃO, CULTURA, ESPORTE E LAZER]
+  - Grupo: Educação Infantil/Ensino Fundamental/Médio -> (Violações: Falta de vaga, Falta de creche, Evasão escolar, Infrequência).
+  - Grupo: Impedimento de permanência -> (Violações: Expulsão indevida, Punições abusivas, Transferência compulsória).
+
+[DIREITO: PROFISSIONALIZAÇÃO E PROTEÇÃO NO TRABALHO]
+  - Grupo: Condições irregulares -> (Violações: Trabalho infantil, Escravidão, Trabalho noturno adolescente, Jornada excessiva).
+
+[DIREITO: LIBERDADE, RESPEITO E DIGNIDADE]
+  - Grupo: Violência Física/Psicológica/Sexual -> (Violações: Maus tratos, Tortura, Castigo corporal, Estupro, Exploração sexual, Cyberbullying).
+  - Grupo: Discriminação -> (Violações: Raça, Gênero, Orientação sexual, Religião).
