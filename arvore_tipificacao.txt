@@ -60,3 +60,17 @@ Grupo: Exploração Sexual: Prostituição; Pornografia infantil; Registro/Armaz
 
 Grupo: Atos Ilícitos: Corrupção de menores; Aliciamento tráfico/porte drogas; Envolvimento grupos armados.
 "O sistema deve usar uma barra de rolagem (scroll) ou menu expansível se a lista for longa, mas nunca omitir nenhum grupo ou violação."
+17. ALGORITMO DE DISTRIBUIÇÃO AUTOMÁTICA (RESTRICTED)
+REGRA DE OURO: A escolha do Conselheiro de Providência Imediata é uma função lógica do sistema, não uma escolha do usuário.
+
+GATILHO DE ATRIBUIÇÃO: No exato momento em que o usuário do grupo ADM clicar no botão [SALVAR], o sistema deve capturar a current_date (data do servidor).
+
+CONSULTA DE ESCALA: O sistema deve cruzar a data com a tabela de escala de 2026.
+
+Exemplo Hoje (17/02): O sistema grava automaticamente no banco de dados os nomes: Milena (Plantonista), Sandra e Leandro.
+
+OCULTAÇÃO DE CAMPO: O campo de seleção de "Conselheiro de Imediata" deve ficar OCULTO ou DESABILITADO para o ADM. O ADM preenche os dados da família, e o sistema faz o restante por trás (Backend).
+
+FILTRO DE TELA: - O documento salvo deve aparecer instantaneamente apenas na aba "Minha Referência" dos 3 conselheiros escalados para aquela data específica.
+
+Se o conselheiro não estiver na escala do dia, ele não verá o documento em "Minha Referência", mantendo o foco operacional.
