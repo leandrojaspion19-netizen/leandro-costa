@@ -59,3 +59,4 @@ Grupo: Violência Sexual: Estupro; Exibicionismo; Assédio; Abuso (círculo soci
 Grupo: Exploração Sexual: Prostituição; Pornografia infantil; Registro/Armazenamento/Divulgação cena sexo.
 
 Grupo: Atos Ilícitos: Corrupção de menores; Aliciamento tráfico/porte drogas; Envolvimento grupos armados.
+"O sistema deve usar uma barra de rolagem (scroll) ou menu expansível se a lista for longa, mas nunca omitir nenhum grupo ou violação."
