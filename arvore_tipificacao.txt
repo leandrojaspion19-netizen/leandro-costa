@@ -1,21 +1,61 @@
-### ÁRVORE DE TIPIFICAÇÃO SICT - 2026
+16. TABELA EXAUSTIVA DE VIOLAÇÕES (CONTROLE DE INTEGRIDADE)
+O sistema deve carregar obrigatoriamente todos os grupos e itens abaixo. É proibido resumir ou ocultar qualquer opção.
 
-[DIREITO: CONVIVÊNCIA FAMILIAR E COMUNITÁRIA]
-  - Grupo: Privação ou dificuldade de convívio -> (Violações: Omissão dever familiar, Pensão alimentícia, Impedimento de contato, Falta de parentes, Subtração, Moradia precária, Tráfico, Fuga, Abandono).
-  - Grupo: Inadequação do convívio familiar -> (Violações: Falta de zelo, Dificuldade adoção, Ambiente violento, Drogas na família, Alienação parental).
-  - Grupo: Violações à dignidade / negligência -> (Violações: Falta apoio emocional, Omissão educação, Omissão saúde/alimentação/higiene, Omissão segurança).
+I. Direito Fundamental: Convivência Familiar e Comunitária
+Grupo: Privação ou dificuldade de convívio: Omissão dever familiar; Pensão alimentícia; Impedimento contato pais/familiares; Falta pais/parentes; Subtração por familiares; Falta/precariedade moradia; Tráfico; Fuga; Abandono.
 
-[DIREITO: VIDA E SAÚDE]
-  - Grupo: Não atendimento em saúde -> (Violações: Falta de leitos, Aborto legal negado, Falta vacinação, Recusa atendimento gestante/emergência).
-  - Grupo: Atendimento inadequado -> (Violações: Falta de orientação diagnóstica, Cirurgia desnecessária, Negligência profissional).
+Grupo: Inadequação do convívio familiar: Falta de afeto/zelo/proteção; Dificuldade estágio adoção; Ambiente familiar violento; Favorecimento uso drogas; Ambiente prejudicial desenvolvimento; Alienação parental.
 
-[DIREITO: EDUCAÇÃO, CULTURA, ESPORTE E LAZER]
-  - Grupo: Educação Infantil/Ensino Fundamental/Médio -> (Violações: Falta de vaga, Falta de creche, Evasão escolar, Infrequência).
-  - Grupo: Impedimento de permanência -> (Violações: Expulsão indevida, Punições abusivas, Transferência compulsória).
+Grupo: Violações à dignidade / negligência: Falta apoio emocional/psicológico; Omissão educação escolar; Omissão saúde/alimentação/higiene; Omissão proteção/segurança.
 
-[DIREITO: PROFISSIONALIZAÇÃO E PROTEÇÃO NO TRABALHO]
-  - Grupo: Condições irregulares -> (Violações: Trabalho infantil, Escravidão, Trabalho noturno adolescente, Jornada excessiva).
+Grupo: Ausência de programas (Estado): Inexistência orientação sócio-familiar; Falta vaga acolhimento; Inexistência transferência renda; Falta acolhimento adultos c/ crianças; Falta vaga abrigo.
 
-[DIREITO: LIBERDADE, RESPEITO E DIGNIDADE]
-  - Grupo: Violência Física/Psicológica/Sexual -> (Violações: Maus tratos, Tortura, Castigo corporal, Estupro, Exploração sexual, Cyberbullying).
-  - Grupo: Discriminação -> (Violações: Raça, Gênero, Orientação sexual, Religião).
+Grupo: Atos atentatórios: Desrespeito opinião criança (guarda/adoção); Negação filiação; Indefinição paternidade; Impedimento contato pais presos; Impedimento acesso família/comunidade.
+
+II. Direito Fundamental: Vida e Saúde
+Grupo: Não atendimento em saúde: Falta leitos; Recusa aborto legal; Falta atendimento especializado; Não atendimento gestante; Não atendimento usuário drogas; Falta vacinação; Não atendimento emergencial.
+
+Grupo: Atendimento inadequado: Falta orientação diagnóstica/tratamento; Cirurgia desnecessária; Falta precedência; Extrações dentárias desnecessárias; Danos procedimentos; Negligência profissional.
+
+Grupo: Práticas irregulares: Falta prontuário; Exigência presença pais para atender; Falta alojamento conjunto nascimento; Falta notificação suspeita violência; Proibição permanência acompanhante; Não identificação recém-nascido; Retirada compulsória bebê.
+
+Grupo: Ausência de ações específicas: Falta prevenção drogas; Falta tratamento agressor sexual; Ausência info epidemias; Ausência saneamento ambiental/básico.
+
+Grupo: Prejuízo por ação/omissão: Falta notificação doença infecto-contagiosa; Recusa atendimento (filosófico/religioso); Omissão socorro; Condições precárias abrigo/socioeducativo.
+
+Grupo: Atos atentatórios: Ameaça morte; Uso droga como violência; Tentativa homicídio; Tentativa suicídio; Automutilação; Extração ilícita órgãos.
+
+III. Direito Fundamental: Educação, Cultura, Esporte e Lazer
+Grupo: Educação Infantil: Falta vaga pré-escola/creche; Falta equipe especializada (0-3 e 3-6 anos); Distância casa/creche.
+
+Grupo: Ensino Fundamental/Médio: Falta educação bilíngue; Falta vaga ensino regular/noturno; Inexistência escola completa.
+
+Grupo: Impedimento permanência: Constrangimento; Critérios discriminatórios; Expulsão indevida; Punições abusivas; Transferência compulsória; Evasão/Infrequência (por violação).
+
+Grupo: Falta condições educacionais: Ausência merenda; Faltas professores; Falta info frequência aos pais; Falta material; Falta segurança; Falta atendimento especializado (PCD/Altas habilidades).
+
+Grupo: Cultura/Esporte/Lazer: Falta manutenção equipamentos; Inexistência de espaços; Falta programas públicos; Impedimento de acesso.
+
+IV. Direito Fundamental: Profissionalização e Proteção no Trabalho
+Grupo: Condições irregulares: Trabalho 14/15 anos; Trabalho doméstico; Escravidão; Trabalho infantil; Desrespeito direitos trabalhistas; Jornada ilegal; Trabalho noturno; Incompatibilidade escolar.
+
+Grupo: Remuneração/Relação laboral: Apropriação resultado trabalho; Coação física/psicológica; Trabalho sem remuneração; Remuneração inadequada.
+
+Grupo: Capacitação: Ausência encaminhamento programas; Não acesso formação técnica (incluindo PCD e medidas proteção).
+
+V. Direito Fundamental: Liberdade, Respeito e Dignidade
+Grupo: Restrições ir e vir: Apreensão/Detenção/Confinamento ilegal; Exílio forçado; Sequestro; Recolhimento compulsório; Impedimento acesso logradouro.
+
+Grupo: Discriminação: Histórico ato infracional; Raça/etnia; Gênero; Características pessoais; Política/Ideologia; Intolerância religiosa; Orientação sexual/Identidade gênero; Situação acolhimento/socioeducativo.
+
+Grupo: Negação Cidadania: Cerceamento crença; Violação intimidade; Exposição imagem; Omissão registro queixa; Falta Registro Civil; Omissão autoridade perante ameaça; Violência patrimonial.
+
+Grupo: Violência Psicológica: Tortura; Tratamento cruel; Humilhação; Agressão verbal; Cyberbullying.
+
+Grupo: Violência Física: Supressão alimentação; Tortura; Castigo corporal; Espancamento; Maus tratos; Violência letal.
+
+Grupo: Violência Sexual: Estupro; Exibicionismo; Assédio; Abuso (círculo social ou custódia); Aliciamento; Satisfação lascívia.
+
+Grupo: Exploração Sexual: Prostituição; Pornografia infantil; Registro/Armazenamento/Divulgação cena sexo.
+
+Grupo: Atos Ilícitos: Corrupção de menores; Aliciamento tráfico/porte drogas; Envolvimento grupos armados.
