@@ -40,3 +40,18 @@ Outubro/2026: Começa com Sandra (Plantonista), Mirian (2ª), Luiza (3ª).
 Novembro/2026: Começa com Sandra (Plantonista/Dom), segue com Luiza, Milena, Leandro na segunda-feira.
 
 Dezembro/2025 (Referência de transição): Leandro (Plantonista), Mirian (2ª), Milena (3ª) no dia 1º.
+PROMPT DE CORREÇÃO: RODÍZIO EQUITATIVO E AUTOMÁTICO
+DIRETRIZ DE JUSTIÇA OPERACIONAL: O sistema deve interromper qualquer atribuição fixa. A distribuição deve ser rigorosamente igualitária entre os 5 conselheiros, respeitando o ciclo de disponibilidade.
+
+1. LÓGICA DO CARROSSEL (RODÍZIO)
+Distribuição por Documento: Para cada novo documento salvo pelo ADM, o sistema deve olhar quem foi o último conselheiro a receber um caso e atribuir o próximo da lista (Leandro -> Luiza -> Milena -> Mirian -> Sandra -> retorna ao Leandro).
+
+Independência de Escolha: O ADM (Edson, Fatima, Luiz) não tem permissão para selecionar o nome. Ao salvar, o sistema faz o "check-in" do documento no próximo nome da fila de forma oculta.
+
+2. CRUZAMENTO COM A ESCALA DE IMEDIATA
+O sistema deve garantir que os 3 conselheiros do dia (Escala de Imediata) recebam volumes iguais de processos.
+
+Exemplo: Se hoje os responsáveis são Milena, Sandra e Leandro, o 1º documento vai para Milena, o 2º para Sandra, o 3º para Leandro, o 4º volta para Milena. Ninguém recebe o segundo caso antes que todos tenham recebido o primeiro.
+
+3. BLOQUEIO DE SOBRECARGA
+Fica terminantemente proibido o sistema atribuir mais de 2 casos seguidos para o mesmo CPF se houver outros conselheiros ativos na escala do dia com menos casos atribuídos.
