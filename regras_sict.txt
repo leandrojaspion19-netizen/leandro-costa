@@ -1,0 +1,42 @@
+instrucoes_sistema.txt 
+REGRAS DE ACESSO E PERMISSÕES
+GRUPO ADM (Edson, Fatima, Luiz): Responsáveis pelo cadastro inicial no campo NOVO PROCEDIMENTO. O botão [SALVAR] deve ser habilitado apenas com os dados básicos (Nome, Tipo de Doc, Data). O sistema está proibido de exigir campos técnicos (violação/agente) para o ADM.
+
+CONSELHEIROS (Leandro, Luiza, Milena, Mirian, Sandra): Responsáveis pela triagem e aplicação de medidas.
+
+2. LÓGICA DE DISTRIBUIÇÃO (Obrigatória)
+CONSELHEIRO REFERÊNCIA: Se a família já existe, o sistema mantém o vínculo histórico. Se for nova, distribui sequencialmente entre os 5 conselheiros.
+
+PROVIDÊNCIA IMEDIATA: Distribuição sequencial entre os 3 conselheiros escalados para o dia. Ao abrir o documento em "Minha Referência", o sistema deve:
+
+Reconhecer o usuário logado e colocá-lo no topo da lista.
+
+Abrir o documento em MODO DE EDIÇÃO (campos "Violação" e "Agente Violador" habilitados).
+
+3. VALIDAÇÃO COLEGIADA (Segurança Jurídica)
+ALERTA: Ao salvar uma medida, os outros 2 colegas do dia recebem um alerta imediato.
+
+AÇÃO: O alerta deve ser um link direto (âncora) para a área de assinatura.
+
+ASSINATURA: O botão [VALIDAR] deve executar uma gravação imediata no banco de dados. O documento só é finalizado com 2 validações extras.
+
+4. ESCALAS TRANSCRITAS (BASE 2026)
+Consulte estas tabelas para as atribuições de "Imediata":
+
+Abril/2026: Começa com Mirian (Plantonista), Milena (2ª), Leandro (3º).
+
+Maio/2026: Começa com Leandro (Plantonista), Luiza (2ª), Milena (3ª).
+
+Junho/2026: Começa com Sandra (Plantonista), Leandro (2º), Luiza (3ª).
+
+Julho/2026: Começa com Milena (Plantonista), Leandro (2º), Luiza (3ª).
+
+Agosto/2026: Começa com Luiza (Plantonista/Sáb), segue com Leandro, Mirian, Milena na segunda-feira.
+
+Setembro/2026: Começa com Leandro (Plantonista), Milena (2ª), Luiza (3ª).
+
+Outubro/2026: Começa com Sandra (Plantonista), Mirian (2ª), Luiza (3ª).
+
+Novembro/2026: Começa com Sandra (Plantonista/Dom), segue com Luiza, Milena, Leandro na segunda-feira.
+
+Dezembro/2025 (Referência de transição): Leandro (Plantonista), Mirian (2ª), Milena (3ª) no dia 1º.
